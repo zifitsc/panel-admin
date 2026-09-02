@@ -31050,7 +31050,7 @@ case 1:return A.p(q,r)
 case 2:return A.o(o.at(-1),r)}})
 return A.q($async$yL,r)},
 aVm(a){var s=a.b
-if(s===413)return"\u062d\u062c\u0645 \u0641\u0627\u06cc\u0644 \u0627\u0632 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a Bucket \u0641\u0627\u06cc\u0644\u200c\u0647\u0627\u06cc \u0635\u0648\u062a\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0633\u062a. \u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 \u0645\u062c\u0627\u0632 \u0631\u0627 \u062f\u0631 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a Bucket \xabmp3s\xbb \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0647\u06cc\u062f."
+if(s===413)return"\u062d\u062c\u0645 \u0641\u0627\u06cc\u0644 \u0627\u0632 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a Bucket \u0641\u0627\u06cc\u0644\u200c\u0647\u0627\u06cc \u0635\u0648\u062a\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0633\u062a. \u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 \u0645\u062c\u0627\u0632 \u0631\u0627 \u062f\u0631 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a Bucket \xabaudio\xbb \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0647\u06cc\u062f."
 return"\u062e\u0637\u0627\u06cc \u0622\u067e\u0644\u0648\u062f \u0641\u0627\u06cc\u0644 ("+s+"). "+A.fe(A.fd(a.e)).bO(a.w)},
 pK(a,b){return A.bfF(a,b)},
 bfF(a,b){var s=0,r=A.r(t.H),q,p=2,o=[],n,m,l,k,j,i,h
@@ -108205,7 +108205,7 @@ break
 case 12:l=l.r
 l.toString
 s=14
-return A.j(A.pK("mp3s",l),$async$qp)
+return A.j(A.pK("audio",l),$async$qp)
 case 14:case 13:s=15
 return A.j(o.d.F0(o.a.c),$async$qp)
 case 15:l=o.c
@@ -108395,7 +108395,7 @@ case 10:g=m.as
 f=m.at
 f.toString
 s=12
-return A.j(A.iK("mp3s",h,f,"audio",g,new A.aDJ(m)),$async$qk)
+return A.j(A.iK("audio",h,f,"audio",g,new A.aDJ(m)),$async$qk)
 case 12:k=a1
 case 11:h=m.a.c
 h=h==null?null:h.a
